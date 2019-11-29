@@ -11,7 +11,7 @@
    height: 7rem;
   font-size: 1.4rem;
   background-color: #fff;
-  border-bottom: var(--color-grey-light-2);
+  border-bottom: 1px solid var(--color-grey-light-2);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -38,6 +38,7 @@
 
 .detail{
   display: flex;
+  font-size: 1.4rem;
   padding: 4.5rem;
   background-color: var(--color-grey-light-1);
 }
@@ -50,6 +51,8 @@
   margin-right: 4.5rem;
 }
 .users-review{
-  background-color: orange;
+  //background-color: #ffffff;
+  //font-size: 14px;
+  //padding: 3rem;
   flex: 1;
 }
